@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="104" viewBox="0 0 560 104" role="img" aria-label="Progamins">
+  <defs>
+    <linearGradient id="g-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="45%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="g-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="45%" stop-color="#0E7490"/>
+      <stop offset="100%" stop-color="#DB2777"/>
+    </linearGradient>
+    <style>
+      text { fill: url(#g-dark); }
+      @media (prefers-color-scheme: light) {
+        text { fill: url(#g-light); }
+      }
+    </style>
+  </defs>
+  <text x="280" y="68" text-anchor="middle"
+        font-family="'Segoe UI', Inter, system-ui, -apple-system, sans-serif"
+        font-size="58" font-weight="800" letter-spacing="1">Progamins</text>
+</svg>
