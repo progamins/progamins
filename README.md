@@ -51,11 +51,11 @@ Actualmente trabajo en **Maison Rosas**, una tienda online en producción para u
 ## 🛠️ Tech Stack
 
 <p>
-  <b>Frontend</b> — <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind" width="196" alt="TypeScript, React, Vite, Tailwind CSS"/><br/>
-  <b>Backend</b> — <img src="https://skillicons.dev/icons?i=nodejs,express,php" width="148" alt="Node.js, Express, PHP"/><br/>
-  <b>Database</b> — <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/> <code>MySQL 8</code> · <code>SQL Server</code><br/>
+  <b>Frontend</b> — <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind" width="245" alt="TypeScript, React, Next.js, Vite, Tailwind CSS"/><br/>
+  <b>Backend</b> — <img src="https://skillicons.dev/icons?i=nodejs,express,python,php" width="196" alt="Node.js, Express, Python, PHP"/><br/>
+  <b>Database</b> — <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" width="148" alt="MySQL, PostgreSQL, MongoDB"/> <code>MySQL 8</code> · <code>SQL Server</code><br/>
   <b>Mobile</b> — <img src="https://skillicons.dev/icons?i=java,androidstudio" width="100" alt="Java, Android Studio"/><br/>
-  <b>DevOps</b> — <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions" width="148" alt="Docker, Vercel, GitHub Actions"/>
+  <b>DevOps</b> — <img src="https://skillicons.dev/icons?i=git,docker,vercel,githubactions" width="196" alt="Git, Docker, Vercel, GitHub Actions"/>
 </p>
 
 <!-- ================= PROYECTOS DESTACADOS ================= -->
