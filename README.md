@@ -20,7 +20,7 @@
   <img src="assets/hero-title.svg" width="380" alt="Progamins"/>
 
   <p>
-    <b>Full-Stack Developer</b> · <b>Perú</b> 🇵🇪<br/>
+    <b>Full-Stack Developer</b> · <b>Vibe Coder</b> 🤖 · <b>Perú</b> 🇵🇪<br/>
     <i>Build. Experiment. Ship. 🚀</i>
   </p>
 
@@ -37,7 +37,7 @@
 
 Desarrollador full-stack de **Perú** 🇵🇪. Desde 2023 construyo productos web completos — frontend, API, base de datos y despliegue — y experimento con nuevas tecnologías para convertir ideas en proyectos reales.
 
-Actualmente trabajo en **Maison Rosas**, una tienda online en producción para una pastelería familiar.
+Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al prototipo y al producto en producción. Actualmente trabajo en **Maison Rosas**, una tienda online en producción para una pastelería familiar.
 
 <!-- ================= QUÉ CONSTRUYO ================= -->
 ## 🧰 Qué construyo
@@ -47,6 +47,7 @@ Actualmente trabajo en **Maison Rosas**, una tienda online en producción para u
 | 🌐 **Web Applications** | Tiendas online y sistemas web a medida: React + TypeScript, Vite, Tailwind CSS y PHP. |
 | ⚙️ **APIs & Backend** | APIs REST con Node.js/Express: autenticación, sesiones, rate-limiting y múltiples bases de datos. |
 | 📱 **Mobile** | Apps Android en Java con conexión a SQL Server. |
+| 🤖 **Desarrollo con IA** | Prototipado y construcción asistida por IA: de la idea al producto, con refactor y automatización. |
 
 <!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
@@ -121,3 +122,7 @@ Actualmente trabajo en **Maison Rosas**, una tienda online en producción para u
 
 ---
 <p align="center"><i>Build. Experiment. Ship. · Hecho con 💜 desde Perú</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E1B4B,45:6D28D9,80:0E7490,100:0891B2" width="100%" alt=""/>
+</p>
