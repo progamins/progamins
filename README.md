@@ -27,6 +27,7 @@
   <p>
     <a href="https://github.com/progamins"><img src="https://img.shields.io/badge/GitHub-progamins-6D28D9?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://github.com/progamins?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-5-0E7490?style=flat-square&logo=git&logoColor=white" alt="Repositorios"/></a>
+    <a href="https://progamins.github.io"><img src="https://img.shields.io/badge/Portfolio-progamins.github.io-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="https://webhermanos-client.vercel.app"><img src="https://img.shields.io/badge/Demo-Maison_Rosas-EC4899?style=flat-square&logo=vercel&logoColor=white" alt="Demo en vivo"/></a>
   </p>
 </div>
@@ -111,6 +112,7 @@ Actualmente trabajo en **Maison Rosas**, una tienda online en producción para u
 <!-- ================= CONECTA ================= -->
 ## 📬 Conecta conmigo
 
+- **Portfolio** — [progamins.github.io](https://progamins.github.io)
 - **GitHub** — [progamins](https://github.com/progamins)
 - **Proyecto en producción** — [Maison Rosas · Demo en vivo](https://webhermanos-client.vercel.app)
 - **Código fuente** — [progamins/webhermanos](https://github.com/progamins/webhermanos)
