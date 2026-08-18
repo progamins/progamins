@@ -100,8 +100,8 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
     </td>
     <td bgcolor="#0F172A" align="center" width="50%">
       <b><font color="#E2E8F0">📱 aplicativo-java</font></b><br/>
-      <font color="#94A3B8" size="2">App Android en Kotlin + Jetpack Compose con API REST propia (Node.js + Express + SQLite) — autenticación con JWT y bcrypt.</font><br/><br/>
-      <code>Kotlin</code> <code>Android</code> <code>Compose</code> <code>Node.js</code> <code>SQLite</code><br/><br/>
+      <font color="#94A3B8" size="2">App Android en Kotlin + Compose con API REST (Node.js + Express) — JWT con refresh tokens, Docker y compatible con MySQL/SQLite.</font><br/><br/>
+      <code>Kotlin</code> <code>Android</code> <code>Node.js</code> <code>Docker</code> <code>MySQL</code><br/><br/>
       <a href="https://github.com/progamins/aplicativo-java">Repositorio</a>
     </td>
   </tr>
