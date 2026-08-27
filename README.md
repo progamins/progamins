@@ -39,6 +39,21 @@ Desarrollador full-stack de **Perú** 🇵🇪. Desde 2023 construyo productos w
 
 Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al prototipo y al producto en producción. Actualmente trabajo en **Maison Rosas**, una tienda online en producción para una pastelería familiar.
 
+> **💬 ¿Necesitas un desarrollador?** Envíame un mensaje directo en GitHub o abre un issue en cualquier repositorio. Respondo en menos de 24 horas.
+
+<!-- ================= SERVICIOS ================= -->
+## 💰 Servicios Disponibles
+
+| Servicio | Descripción | Precio desde |
+|---|---|---|
+| 🛒 **Tienda Online E-commerce** | Catálogo, pedidos, panel admin, PWA offline, deploy completo | $300 USD |
+| 🏫 **Sistema de Gestión Académica** | Asistencia QR, horarios, pagos, reportes PDF, roles | $500 USD |
+| ⚙️ **API REST con Autenticación** | Node.js + Express + JWT + MySQL + tests + documentación | $200 USD |
+| 📱 **App Android Nativa** | Kotlin/Java + backend API + JWT + MySQL | $500 USD |
+| 🔧 **Cualquier Proyecto Web** | Frontend + Backend + BD + Deploy a tu medida | $150 USD |
+
+> **🎁 Primer cliente:** 20% de descuento en tu primer proyecto. Escríbeme para empezar.
+
 <!-- ================= QUÉ CONSTRUYO ================= -->
 ## 🧰 Qué construyo
 
@@ -46,7 +61,7 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
 |---|---|
 | 🌐 **Web Applications** | Tiendas online y sistemas web a medida: React + TypeScript, Vite, Tailwind CSS y PHP. |
 | ⚙️ **APIs & Backend** | APIs REST con Node.js/Express: autenticación, sesiones, rate-limiting y múltiples bases de datos. |
-| 📱 **Mobile** | Apps Android en Java con conexión a SQL Server. |
+| 📱 **Mobile** | Apps Android en Java/Kotlin con conexión a MySQL/SQL Server. |
 | 🤖 **Desarrollo con IA** | Prototipado y construcción asistida por IA: de la idea al producto, con refactor y automatización. |
 
 <!-- ================= TECH STACK ================= -->
@@ -107,6 +122,18 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
   </tr>
 </table>
 
+<!-- ================= POR QUÉ ELEGIRME ================= -->
+## ✅ Por qué trabajar conmigo
+
+| | |
+|---|---|
+| 🟢 **Proyectos en producción** | No vendo prototipos — mis apps están live y funcionando |
+| 🔒 **Seguridad real** | CSRF, JWT, rate limiting, hashes seguros — no shortcuts |
+| 🐳 **Docker & Deploy** | Entregable listo para producción, no solo código |
+| 📱 **Responsive** | Todo funciona en desktop y móvil |
+| 📄 **Documentación** | READMEs claros, endpoints documentados |
+| ⚡ **Rápido** | Entrega en 1-3 semanas según complejidad |
+
 <!-- ================= ACTUALMENTE CONSTRUYENDO ================= -->
 ## 🔭 Actualmente construyendo
 
@@ -123,15 +150,25 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=progamins&theme=github" alt="Lenguajes más usados" #gh-light-mode-only/>
 </p>
 
+<!-- ================= CONTRATACION ================= -->
+## 🤝 ¿Cómo Contratarme?
+
+**Paso 1:** Escríbeme un mensaje en GitHub o abre un issue describiendo tu proyecto.
+**Paso 2:** Hacemos una videollamada de 15 min para entender tus necesidades.
+**Paso 3:** Recibes una propuesta con alcance, precio y tiempo de entrega.
+**Paso 4:** ¡Construimos tu proyecto! Entregable completo con deploy.
+
+**Medios de pago:** PayPal, transferencia bancaria (Perú), Yape/Plin.
+
 <!-- ================= CONECTA ================= -->
 ## 📬 Conecta conmigo
 
 - **Portfolio** — [progamins.github.io](https://progamins.github.io)
+- **Demo en vivo** — [Maison Rosas · Tienda online](https://webhermanos-client.vercel.app)
 - **GitHub** — [progamins](https://github.com/progamins)
-- **Proyecto en producción** — [Maison Rosas · Demo en vivo](https://webhermanos-client.vercel.app)
 - **Código fuente** — [progamins/webhermanos](https://github.com/progamins/webhermanos)
 
-¿Tienes una idea o quieres colaborar? Abre un issue en cualquiera de mis repositorios.
+> **💬 ¿Listo para empezar?** [Ábre un issue](https://github.com/progamins/progamins/issues/new) cuéntame tu proyecto.
 
 ---
 <p align="center"><i>Build. Experiment. Ship. · Hecho con 💜 desde Perú</i></p>
