@@ -26,9 +26,10 @@
 
   <p>
     <a href="https://github.com/progamins"><img src="https://img.shields.io/badge/GitHub-progamins-6D28D9?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://github.com/progamins?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-8-0E7490?style=flat-square&logo=git&logoColor=white" alt="Repositorios"/></a>
+    <a href="https://github.com/progamins?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprogamins&query=public_repos&label=Repositorios&color=0E7490&style=flat-square&logo=git&logoColor=white" alt="Repositorios"/></a>
     <a href="https://progamins.github.io"><img src="https://img.shields.io/badge/Portfolio-progamins.github.io-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="https://webhermanos-client.vercel.app"><img src="https://img.shields.io/badge/Demo-Maison_Rosas-EC4899?style=flat-square&logo=vercel&logoColor=white" alt="Demo en vivo"/></a>
+    <a href="https://opendowload.vercel.app"><img src="https://img.shields.io/badge/Demo-OpenMedia_Downloader-22D3EE?style=flat-square&logo=vercel&logoColor=white" alt="Demo OpenMedia Downloader"/></a>
   </p>
 </div>
 
@@ -46,13 +47,13 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
 
 | Servicio | Descripción | Precio desde |
 |---|---|---|
-| 🛒 **Tienda Online E-commerce** | Catálogo, pedidos, panel admin, PWA offline, deploy completo | $300 USD |
+| 🖥️ **Apps Web a Medida** | Desde landing hasta plataforma completa: auth, roles, dashboards, tiempo real y deploy | $400 USD |
+| 🛒 **Tienda Online E-commerce** | Catálogo, pedidos con seguimiento, panel admin, PWA offline, deploy | $350 USD |
+| ⚙️ **API REST con Autenticación** | Node.js + Express + JWT + bcrypt + rate limiting + tests | $250 USD |
 | 🏫 **Sistema de Gestión Académica** | Asistencia QR, horarios, pagos, reportes PDF, roles | $500 USD |
-| ⚙️ **API REST con Autenticación** | Node.js + Express + JWT + MySQL + tests + documentación | $200 USD |
 | 📱 **App Android Nativa** | Kotlin/Java + backend API + JWT + MySQL | $500 USD |
-| 🔧 **Cualquier Proyecto Web** | Frontend + Backend + BD + Deploy a tu medida | $150 USD |
 
-> **🎁 Primer cliente:** 20% de descuento en tu primer proyecto. Escríbeme para empezar.
+> **🎁 Primer cliente:** 20% de descuento en tu primer proyecto. Precio final según alcance — cotización en 24h. Escríbeme para empezar.
 
 <!-- ================= QUÉ CONSTRUYO ================= -->
 ## 🧰 Qué construyo
@@ -89,7 +90,7 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
     <td bgcolor="#0F172A" align="center" width="50%">
       <b><font color="#E2E8F0">🏫 iestp</font></b><br/>
       <font color="#94A3B8" size="2">Sistema de gestión académica en PHP y MySQL: asistencias con QR, horarios, unidades didácticas, justificaciones, pagos y reportes PDF.</font><br/><br/>
-      <code>PHP</code> <code>MySQL</code> <code>Bootstrap</code> <code>FPDF</code><br/><br/>
+      <code>PHP</code> <code>MySQL</code> <code>FPDF</code> <code>QR</code><br/><br/>
       <a href="https://github.com/progamins/iestp">Repositorio</a>
     </td>
   </tr>
@@ -120,6 +121,20 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
       <a href="https://github.com/progamins/aplicativo-java">Repositorio</a>
     </td>
   </tr>
+  <tr>
+    <td bgcolor="#0F172A" align="center" width="50%">
+      <b><font color="#E2E8F0">🎬 OpenMedia Downloader · NUEVO 🆕</font></b><br/>
+      <font color="#94A3B8" size="2">Descargador de medios híbrido — Vercel (React + Vite) ↔ Cloudflare Tunnel ↔ Express en tu PC. Descargas simultáneas con yt-dlp + FFmpeg y progreso en tiempo real (SSE).</font><br/><br/>
+      <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>yt-dlp</code> <code>FFmpeg</code><br/><br/>
+      <a href="https://github.com/progamins/opendowload">Repositorio</a> · <a href="https://opendowload.vercel.app">Demo en vivo</a>
+    </td>
+    <td bgcolor="#0F172A" align="center" width="50%">
+      <b><font color="#E2E8F0">💎 Chollo &amp; Glam · website</font></b><br/>
+      <font color="#94A3B8" size="2">E-commerce SSR en Astro 7 + Tailwind CSS v4 + SQLite: banners, ofertas flash, carrito con animaciones y checkout. Panel admin separado con pagos y configuración.</font><br/><br/>
+      <code>Astro 7</code> <code>Tailwind CSS</code> <code>SQLite</code> <code>Node.js</code><br/><br/>
+      <a href="https://github.com/progamins/website">Repositorio</a> · <a href="https://progamins.github.io/chollo/">Proyecto</a>
+    </td>
+  </tr>
 </table>
 
 <!-- ================= POR QUÉ ELEGIRME ================= -->
@@ -137,7 +152,9 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
 <!-- ================= ACTUALMENTE CONSTRUYENDO ================= -->
 ## 🔭 Actualmente construyendo
 
-**🍰 Maison Rosas** — tienda online full-stack para una pastelería peruana. En producción en Vercel y con desarrollo activo: los últimos commits son de agosto 2026.
+**🎬 OpenMedia Downloader** — descargador de medios híbrido (Vercel ↔ Cloudflare Tunnel ↔ Express). Mi producto más reciente, con desarrollo activo y demo en vivo.
+
+**🍰 Maison Rosas** — tienda online full-stack para una pastelería peruana. En producción en Vercel y con desarrollo activo.
 
 <!-- ================= STATS ================= -->
 ## 📊 GitHub Stats
@@ -165,6 +182,7 @@ Construyo con el apoyo de herramientas de IA (vibe coding): de la idea al protot
 
 - **Portfolio** — [progamins.github.io](https://progamins.github.io)
 - **Demo en vivo** — [Maison Rosas · Tienda online](https://webhermanos-client.vercel.app)
+- **Demo OpenMedia Downloader** — [opendowload.vercel.app](https://opendowload.vercel.app)
 - **GitHub** — [progamins](https://github.com/progamins)
 - **Código fuente** — [progamins/webhermanos](https://github.com/progamins/webhermanos)
 
